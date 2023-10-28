@@ -1,4 +1,3 @@
-package Snake;
 
 import javax.swing.*;
 
